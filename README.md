@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/HanaLevak/MilestoneProject1)
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 <h1>Classical Opera Singing Classes & Piano Lesson</h1>
 <h3>User Centric Front End Development project</h3>
