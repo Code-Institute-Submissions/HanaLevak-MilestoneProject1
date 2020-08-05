@@ -1,4 +1,6 @@
-const newLocal = <button type="submit" class="btn btn-primary">Sign in</button>;
+$('.carousel')(autoplay carousel)(repeat.carousel)
+
+const newLocal = <button type="submit" class="btn btn-dark">Sign in</button>;
 $(document).ready(function(_b)
   $('.header').height($(window).height(main.js,"."}}
 
@@ -8,11 +10,6 @@ header {  display: grid;  grid-template-areas: "body";  place-items: center;�
   &::before {    content: "";    grid-area: hero;    place-self: start;    width: 50vmin;    height: 50vmin;    border-radius: 50%;
 
 
- 
-$primary: #3c87b3;$secondary: #2ba27c;$support: #ffa000;
-@function svgColor($color) {  @return "%23" + str-slice("#{$color}", 2, -1);}
-header {  display: grid;  grid-template-areas: "body";  place-items: center;  height: 60vh;  max-height: 600px;  background-color: rgba($primary, 0.7);  overflow: hidden;
-  &::before {    content: "";    grid-area: ;    place-self: start;    width: 50vmin;    height: 50vmin;    border-radius: 50%;
 
 /*--definitelly need check and repair-*/
 const segs = window.location.host.split('.');
