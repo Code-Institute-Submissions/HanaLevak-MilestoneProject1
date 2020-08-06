@@ -1,25 +1,21 @@
-const newLocal = <button type="submit" class="btn btn-primary">Sign in</button>;
+$('.carousel')(autoplay) (repeat)
+const newLocal = <button type="submit" class="btn btn-light">Sign in</button>;
 $(document).ready(function(_b)
-  $('.header').height($(window).height(main.js,"."}}
+  $('.header').height($(window).height(main.js,{{"."ts}}
 
-  $primary: #3c87b3;$secondary: #2ba27c;$support: #ffa000;
-@function svgColor($color) {  @return "%23" + str-slice("#{$color}", 2, -1);}
-header {  display: grid;  grid-template-areas: "body";  place-items: center;  height: 60vh;  max-height: 600px;  background-color: rgba($primary, 0.7);  overflow: hidden;
-  &::before {    content: "";    grid-area: hero;    place-self: start;    width: 50vmin;    height: 50vmin;    border-radius: 50%;
+  
 
-
- 
-$primary: #3c87b3;$secondary: #2ba27c;$support: #ffa000;
-@function svgColor($color) {  @return "%23" + str-slice("#{$color}", 2, -1);}
-header {  display: grid;  grid-template-areas: "body";  place-items: center;  height: 60vh;  max-height: 600px;  background-color: rgba($primary, 0.7);  overflow: hidden;
-  &::before {    content: "";    grid-area: ;    place-self: start;    width: 50vmin;    height: 50vmin;    border-radius: 50%;
-
-/*--definitelly need check and repair-*/
-const segs = window.location.host.split('.');
-        const startURL = window.location.protocol + '//' + segs.splice(2, 4).join('.') + '/start/#' + segs[0];
-
-        var iframe = document.createElement('iframe');
-        iframe.id = 'starter';
-        iframe.src = startURL;
-        document.querySelector('#startup-progress').appendChild(iframe);
-    }
+ webkitURL ("assets/images/Everybody's welcome.jpg")..type Image)
+   font-family-sans-serif:{
+ //Safari for OS X and iOS (San Francisco)
+  -apple-system,
+  // Chrome < 56 for OS X (San Francisco)
+  BlinkMacSystemFont,
+  // Windows
+  "Segoe UI",
+  // Android
+  "Roboto",
+  // Basic web fallback
+  "Helvetica Neue", Arial, sans-serif,
+  // Emoji fonts
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;)
