@@ -1,65 +1,34 @@
- #carousels{
+* {
+  box-sizing: border-box}
+
+.flex-container {
+    display: -webkit-inline-flex;
+  display: inline-block;
+}
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ .carousel{
+    
+    display:  justify center block;
     animation-delay: 5s;
     animation-duration:9min;
-    align-self: start;
-    object-fit: fit;
-    display: -webkit-inline-grid;
+    orientation: landscape;
+    object-fit:fill;
     height: 100%;
-    width: 100%;}
-    
+    width: 100%;
+    }
+
+  .iframe{
+      display: visible;
+      -webkit-animation-duration :unset;
+      justify-content: inline;}
+      
+      
+      
+      }
   
-* {
-  box-sizing: border-box;
-}
-
-
-
-
-body{
-font-family: "Helvetica Neue", Arial, sans-serif ;
-font-size:14px;
-letter-spacing:1px;
-line-height:21px;
-margin-bottom:0px;
-margin-left: 13px;
-margin-right:0px;
-margin-top:2px;
-text-size-adjust:100%;
-}
-
-.nav-link {
-  margin-right: 1em ;
-  
-}
-
-.nav-link:hover {
-  color: #000;
-}
-::-webkit-textfield-decoration-container{
-    text-decoration-color: black;
-    text-align: center;
-    -webkit-text-size-adjust: inherit;
-}
-body {
-  min-height: 100vh;
-  font-family: "Baloo 2", sans-serif;
-}
-.features .form-control,
-.features input {
-    border-radius: 0;
-}
-
-.form-group {
-  
-  border: 1px solid black;
-  margin-top: 20px;
-}
-
-.features .btn:hover {
-  background-color: #333;
-  border: 1px solid #333;
-}
-.FormControlTextarea1{
-    font-size: 1,84rem;
-    clip-rule: #fafafa
-}
