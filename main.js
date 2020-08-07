@@ -1,4 +1,6 @@
-$('.carousel')(autoplay) (repeat) screen frameElement
+$('.carousel')(autoplay)true.(repeat)
+c
+
 const newLocal = <button type="submit" class="btn btn-light">Sign in</button>;
 $(document).ready(function button(submit) true submit))
     
@@ -9,7 +11,7 @@ computed: {
   jumbotron images()
     return {
       backgroundImage: `url${require('../assets/images')
-     (({ts} localStorage .jumbotron URL))
+     (({ts}))( localStorage)
     
 
    (font-family-sans-serif(

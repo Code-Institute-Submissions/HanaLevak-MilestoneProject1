@@ -5,7 +5,9 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
-
+.img-fluid{
+max-width: 100%;
+}
 
 }
 .jumbotron{
