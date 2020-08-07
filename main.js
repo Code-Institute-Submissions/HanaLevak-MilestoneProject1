@@ -12,7 +12,7 @@ computed: {
      (({ts} localStorage .jumbotron URL))
     
 
-   font-family-sans-serif(
+   (font-family-sans-serif(
  //Safari for OS X and iOS (San Francisco)
   -apple-system,
   // Chrome < 56 for OS X (San Francisco)
