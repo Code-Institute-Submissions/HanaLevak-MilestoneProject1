@@ -2,27 +2,20 @@
 (https://gitpod.io/#https://github.com/HanaLevak/MilestoneProject1)
 
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
-##Classical Opera Singing Classes & Piano Lesson
-###For my first Milestone project I decide to help my Auntie!
+
+# Classical Opera Singing Classes & Piano Lesson
+### For my first Milestone project I decide to help my Auntie!
 So as 5 planes are offering to us, I started my preparation for project with a question : "What" is worth of doing? 
 Help  to fill up Auntie Classes with a new students !
-###UX
-Users of web page have one Leading point and that is Classical Art and Opera.  Page is for Users which they are looking for profesional opera singer ,OR Vocal pedagogue who is going to help them to sing or aprove them self. 
-###
-
-Users also may look for Piano Lessons. Unsure visitors or they those who dont know where to start -leading to the answers or informing them in whole page.
+### UX
+Users of web page have one Leading point and that is Classical Art and Opera. 
+ Page is for Users which they are looking for profesional opera singer ,OR Vocal pedagogue who is going to help them to sing or aprove them self.Users also may look for Piano Lessons. Unsure visitors or they those who dont know where to start -leading to the answers or informing them in whole page.
 
 ### navigation
 Upon entering the site, users are automatically greet with a clean and easily readable navigation bar .
  Underneath there is a Hero Image .
 
-The main points are made immediately with the hero image
-The user has text text ... text text ... text text ... text text ... text text    ... text text .text text ... text text ... text text ... text text ... text text    ... text text .
-
-
-Returning Visitor Goals
-text text ... text text ... text text ... text text ... text text    ... text text .
-As a Returning Visitor, I wa text text ... text text ... text text ... text text ... text text    ... text text .
+The main points are made immediately with the hero image.
 
 ## Layout and Visual Impact:
 Responsive Design
@@ -192,10 +185,8 @@ GitHub is used to store the projects code after being pushed from Git.
 ### ajax/libs/jquery-backstretch/2.1.18
 
 ### Testing
-W3C Markup Validator - Results
-W3C CSS Validator - Results.
--TRY submit the empty form and verify
-- LIGHTHOUSE AUDIT CAN included_)
+sadly not finnished with a testing -proper testing
+- LIGHTHOUSE AUDIT
 
 ## Credits: 
 

@@ -1,4 +1,4 @@
-$('.carousel')(autoplay)true.(repeat)
+$('.carousel')(autoplay)true.(repeat ActiveXObject)
 c
 
 const newLocal = <button type="submit" class="btn btn-light">Sign in</button>;
