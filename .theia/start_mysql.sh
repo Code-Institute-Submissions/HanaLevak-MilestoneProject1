@@ -1,4 +1,5 @@
-#!/bin/bash
+branch: 'master'
+schema: 'schema.graphql' # an output of `$ graphql-inspector introspect ...`#!/bin/bash
 
 # this script is intended to be called from .bashrc
 # This is a workaround for not having something like supervisord
