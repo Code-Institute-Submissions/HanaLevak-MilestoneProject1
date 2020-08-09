@@ -4,6 +4,17 @@
   "version": "0.2.0",
   "configurations": [
       {
+          "type": "node",
+          "request": "launch",
+          "name": "Launch via NPM",
+          "runtimeExecutable": "npm",
+          "runtimeArgs": [
+              "run-script",
+              "debug"
+          ],
+          "port": 9229
+      },
+      {
           "name": "Attach to Process",
           "type": "go",
           "request": "attach",
@@ -28,7 +39,7 @@
             "name": "Python: Current File (Integrated Terminal)",
             "type": "python",
             "request": "launch",
-            "program": "${MilestoneProject1)",
+            "program": "${MilestoneProject1}",
             "console": "internalConsole"
         }
   ]
