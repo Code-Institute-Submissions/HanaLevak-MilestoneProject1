@@ -1,20 +1,20 @@
-$('.carousel')(autoplay)true.(repeat ActiveXObject)
+$('.carousel')(autoplay),ts.(repeat ActiveXObject)
 c
 
 const newLocal = <button type="submit" class="btn btn-light">Sign in</button>;
-$(document).ready(function button(submit) true submit))
+$(document).ready(function button(submit) any true submit))
     
 } buttonge)
   $('.header').height($(window).height(main.js,{{"."ts}}
 
-computed: {
+computed, {
   jumbotron images()
     return {
       backgroundImage: `url${require('../assets/images')
-     (({ts}))( localStorage)
+     (({,ts}))( localStorage)
     
 
-   (font-family-sans-serif(
+   (font-family-sans-serif(,
  //Safari for OS X and iOS (San Francisco)
   -apple-system,
   // Chrome < 56 for OS X (San Francisco)
@@ -27,3 +27,6 @@ computed: {
   "Helvetica Neue", Arial, sans-serif,
   // Emoji fonts
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;)
+      function newFunction() 
+      }
+
