@@ -1,16 +1,16 @@
-[Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)
-(https://gitpod.io/#https://github.com/HanaLevak/MilestoneProject1)
+
 
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
-<<<<<<< HEAD
 
-# Classical Opera Singing Classes & Piano Lesson
+
+# Classical Opera Singing Classes & Piano Lessons
 ### For my first Milestone project I decide to help my Auntie!
 So as 5 planes are offering to us, I started my preparation for project with a question : "What" is worth of doing? 
 Help  to fill up Auntie Classes with a new students !
 ### UX
 Users of web page have one Leading point and that is Classical Art and Opera. 
- Page is for Users which they are looking for profesional opera singer ,OR Vocal pedagogue who is going to help them to sing or aprove them self.Users also may look for Piano Lessons. Unsure visitors or they those who dont know where to start -leading to the answers or informing them in whole page.
+ Page is for Users which they are looking for profesional opera singer ,OR Vocal pedagogue who is going to help them to sing or aprove them self.
+ Users also may look for Piano Lessons. Unsure visitors or they those who dont know where to start -leading to the answers or informing them in whole page.
 
 ### navigation
 Upon entering the site, users are automatically greet with a clean and easily readable navigation bar .
@@ -22,22 +22,23 @@ The main points are made immediately with the hero image.
 Responsive Design
 Image Presentation
 Colour scheme and typography
+
 ### Code Quality
  HTML
  CSS
 
-## Software Development practices:
-
 
 ## Features
 informative, 
-header image,
-unstable slideer
-sign up forn in navigation , 
+header image,, 
 embled resp. youtube video
 
 ## Features Left to Implement: 
 #### becase of time-there is still a lot of work unfinish:
+### bugs bugersons: 
+carousel- belive that all busg remocved..
+form in navi not sumbitable(?)
+
 finalize sematic 
 and responsive page
 proper form missing
@@ -174,9 +175,12 @@ Author: HanaLevak <hanna.levak@gmail.com>
 Date:   Tue Jul 7 10:58:00 2020 +0100
 
     Initial commit
-(END)
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 ### GitHub:
+
+## (https://gitpod.io/#https://github.com/HanaLevak/MilestoneProject1)
+ ## https://github.com/HanaLevak/MilestoneProject1.git
+
 GitHub is used to store the projects code after being pushed from Git.
 ### ajax/libs/popper.js/1.16.1
 
@@ -186,9 +190,10 @@ GitHub is used to store the projects code after being pushed from Git.
 
 ### Testing
 sadly not finnished with a testing -proper testing
-- LIGHTHOUSE AUDIT
+# LIGHTHOUSE AUDIT pass -but long loading time ..
+another audit not provide
 
-<<<<<<< HEAD
+
 ## Credits: 
 
 ### Content & Media
@@ -196,15 +201,11 @@ The some of the pictures i did used were obtained from https://www.shutterstock.
 ##  Images Directory - Jan Borbely -uncle , director at Slovak Tv( https://www.rtvs.sk/televizia/tv)
 
 ##  Slider pictures -  original footage from the Giacomo_Puccini_Madama_Butterfly sliders and /or behind the scene.
-##YT video rights reserved by Auntie. Rest is from my private albums or familly albums.
+## YT video rights reserved by Auntie. Rest is from my private albums or familly albums.
  
 ##  Acknowledgements
 I would like to thanks to my auntie idea and her straightforward help and  for author's rights;
  
-#### Mozz Devs, Code Institute , Web devs, Mdium,slag and good people ,Leader Igor, Slovakian webpage guys from LearnToCode;  Quancy Larson, many many frameworks and many hours up of doing and  reduing and trying many hours of studiyng and taking notes.. .
-#### soon it will be all right ...)
-© 2020 GitHub, Inc.duchees
-=======
+#### Mozz Devs, Code Institute , Web devs, Mdium,slag and good people ,Leader Igor, Slovakian webpage guys from LearnToCode;  Quancy Larson, many many frameworks and many hours up of doing and reduing and trying many hours of studiyng and taking notes.. )next one will be cool:)
 © 2020 GitHub, Inc.
 Duchees
->>>>>>> 4c4a51f9a03cfa14632d7ebbe888cfde57885bae
