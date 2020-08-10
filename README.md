@@ -2,6 +2,7 @@
 (https://gitpod.io/#https://github.com/HanaLevak/MilestoneProject1)
 
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<<<<<<< HEAD
 
 # Classical Opera Singing Classes & Piano Lesson
 ### For my first Milestone project I decide to help my Auntie!
@@ -45,13 +46,12 @@ proper bg jumbotrom with text inside
 help with JavaScript
 
 ### Languages Used
-HTML5
-CSS3
+
 Frameworks, Libraries & Programs Used
 ### bootswatch/4.5.0/lux/bootstrap.min.css
 ### Bootstrap 4.4.1
 ### ajax library
-### cloudflare.com-ajax- libs/
+### cloudflare.com-ajax- libs
 
 ### jQuery:
 jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
@@ -188,6 +188,7 @@ GitHub is used to store the projects code after being pushed from Git.
 sadly not finnished with a testing -proper testing
 - LIGHTHOUSE AUDIT
 
+<<<<<<< HEAD
 ## Credits: 
 
 ### Content & Media
@@ -203,3 +204,7 @@ I would like to thanks to my auntie idea and her straightforward help and  for a
 #### Mozz Devs, Code Institute , Web devs, Mdium,slag and good people ,Leader Igor, Slovakian webpage guys from LearnToCode;  Quancy Larson, many many frameworks and many hours up of doing and  reduing and trying many hours of studiyng and taking notes.. .
 #### soon it will be all right ...)
 © 2020 GitHub, Inc.duchees
+=======
+© 2020 GitHub, Inc.
+Duchees
+>>>>>>> 4c4a51f9a03cfa14632d7ebbe888cfde57885bae
